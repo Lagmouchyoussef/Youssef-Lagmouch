@@ -1,127 +1,123 @@
-<h1 align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&pause=1000&color=0099FF&center=true&vCenter=true&random=false&width=700&lines=Youssef+Lagmouch;Full+Stack+Engineer+%26+DevOps;Cloud+Architect+%7C+SRE;Building+Scalable+Infrastructure" alt="Typing SVG" />
-  </a>
-</h1>
-
-<h3 align="center">Passionate about building high-performance, scalable systems and automating everything.</h3>
-
----
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+  
+  <div id="badges">
+    <a href="https://www.linkedin.com/in/youssef-lagmouch-51557a2b3/?locale=fr" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    </a>
+    <a href="https://github.com/Lagmouchyoussef" target="_blank">
+      <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge"/>
+    </a>
+    <a href="mailto:yousseflagmouch@gmail.com">
+      <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"/>
+    </a>
+  </div>
+  
+  <img src="https://komarev.com/ghpvc/?username=Lagmouchyoussef&style=flat-square&color=blue" alt=""/>
+  
+  <h1>
+    Hey there
+    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+  </h1>
+</div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Lagmouchyoussef&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=true" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Lagmouchyoussef&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=tokyonight&hide_border=true" height="150" alt="languages graph"  />
-</div>
-
-###
-
-<img align="right" height="180" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"  />
-
-###
-
-<h3 align="left">🚀 Core Technologies</h3>
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="36" alt="javascript"  />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="36" alt="typescript"  />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="36" alt="react"  />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="36" alt="nextjs"  />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="36" alt="nodejs"  />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="36" alt="python"  />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" height="36" alt="golang"  />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="36" alt="docker"  />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="36" alt="kubernetes"  />
-</div>
-
-<br>
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" height="36" alt="aws"  />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="36" alt="gcp"  />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="36" alt="azure"  />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" height="36" alt="terraform"  />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-original.svg" height="36" alt="ansible"  />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" height="36" alt="jenkins"  />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="36" alt="postgresql"  />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="36" alt="mongodb"  />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" height="36" alt="redis"  />
-</div>
-
-###
-
-<h3 align="left">🔗 Connect & Contact</h3>
-
-<div align="left">
-  <a href="https://github.com/Lagmouchyoussef" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=GitHub&logo=github&label=&color=24292e&logoColor=white&labelColor=&style=for-the-badge" height="38" alt="github"  />
-  </a>
-  <a href="https://www.linkedin.com/in/youssef-lagmouch-51557a2b3/?locale=fr" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="38" alt="linkedin"  />
-  </a>
-  <a href="mailto:yousseflagmouch@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Email&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="38" alt="email"  />
-  </a>
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="38" alt="discord"  />
-</div>
-
-###
-
-<br clear="both">
-
----
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Lagmouchyoussef/Lagmouchyoussef/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Lagmouchyoussef/Lagmouchyoussef/output/github-snake.svg" />
-    <img alt="github-contribution-snake" src="https://raw.githubusercontent.com/Lagmouchyoussef/Lagmouchyoussef/output/github-snake.svg" />
-  </picture>
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
 
 ---
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Lagmouchyoussef&theme=tokyonight&hide_border=true" height="150" alt="streak graph"  />
+### :man_technologist: About Me :
+
+I am a Full Stack Developer & DevOps Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Morocco 🇲🇦.
+
+- :telescope: I’m working as a Software Engineer contributing to frontend and backend for building web applications and cloud infrastructure.
+
+- :zap: In my free time, I solve problems, explore new technologies and contribute to open source projects.
+
+- :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Youssef-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/youssef-lagmouch-51557a2b3/?locale=fr)
+
+---
+
+### 🛠️ Languages and Tools :
+
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="TypeScript" alt="TypeScript" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" title="NextJS" alt="NextJS" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original-wordmark.svg" title="VueJS" alt="VueJS" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/go/go-original-wordmark.svg" title="Golang" alt="Golang" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" title="Docker" alt="Docker" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/kubernetes/kubernetes-plain-wordmark.svg" title="Kubernetes" alt="Kubernetes" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/googlecloud/googlecloud-original.svg" title="GCP" alt="GCP" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/terraform/terraform-original-wordmark.svg" title="Terraform" alt="Terraform" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/ansible/ansible-original-wordmark.svg" title="Ansible" alt="Ansible" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/jenkins/jenkins-original.svg" title="Jenkins" alt="Jenkins" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" title="PostgreSQL" alt="PostgreSQL" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" title="MongoDB" alt="MongoDB" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/redis/redis-original-wordmark.svg" title="Redis" alt="Redis" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="40" height="40"/>&nbsp;
 </div>
 
-###
+---
+
+### 🔥 My Stats :
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Lagmouchyoussef&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=8" height="120" alt="trophies"  />
+  
+  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Lagmouchyoussef&theme=dark&background=000000)](https://git.io/streak-stats)
+  
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lagmouchyoussef&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
 </div>
 
-###
+---
+
+### 🎮 Pacman Contribution Game
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Lagmouchyoussef/Lagmouchyoussef/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Lagmouchyoussef/Lagmouchyoussef/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Lagmouchyoussef/Lagmouchyoussef/output/pacman-contribution-graph.svg">
+</picture>
+
+---
+
+### 🐍 Snake Contribution Game
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Lagmouchyoussef/Lagmouchyoussef/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Lagmouchyoussef/Lagmouchyoussef/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/Lagmouchyoussef/Lagmouchyoussef/output/github-snake.svg" />
+</picture>
+
+---
+
+### ✍️ Random Dev Quote
+
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+---
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Lagmouchyoussef&theme=tokyo-night&hide_border=true&bg_color=1a1b27" height="320" alt="activity graph"  />
+  
+  ### 😂 Here is a random joke that'll make you laugh!
+  ![Jokes Card](https://readme-jokes.vercel.app/api)
+  
 </div>
 
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Lagmouchyoussef&color=0099FF&style=for-the-badge"  />
-  &nbsp;&nbsp;
-  <img src="https://img.shields.io/github/followers/Lagmouchyoussef?logo=github&style=for-the-badge&color=0099FF" />
-</div>
-
-<br>
-
-<div align="center">
-  <i>⚡ Automating the world, one commit at a time</i>
+  
+  ![Alt Text](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg)
+  
+  <p>Thanks for visiting! 😊</p>
+  <p>Show some ❤️ by starring some of the repositories!</p>
+  
 </div>
