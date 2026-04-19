@@ -136,7 +136,7 @@ motto: Automate everything that can be automated
 ## 🏆 GITHUB TROPHIES
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Lagmouchyoussef&theme=tokyonight&no-frame=true&row=1&column=5&margin-w=20&margin-h=20" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Lagmouchyoussef&theme=dracula&no-frame=true&row=1&column=5&margin-w=15" />
 </div>
 
 ---
