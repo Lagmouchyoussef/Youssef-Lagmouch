@@ -34,15 +34,26 @@
 
 ## 👨‍💻 About Me
 
-<img align="right" height="180" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
+<img align="right" width="260" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding Animation" />
 
-```yaml
-name: Youssef Lagmouch
-location: Casablanca, Morocco 🇲🇦
-role: Full Stack Developer & DevOps Engineer
-specialty: High performance scalable systems
-motto: Automate everything that can be automated
-```
+> **"Automate everything that can be automated."** ⚙️
+
+Hi there! 👋 I'm **Youssef Lagmouch**, a passionate **Full Stack Developer & DevOps Engineer** based in **Casablanca, Morocco 🇲🇦**. 
+I specialize in architecting **high-performance, scalable systems** and turning complex problems into elegant, automated solutions.
+
+### 🌟 Quick Facts
+- 🔭 **Current Focus:** Building robust web applications & cloud-native infrastructures.
+- ⚡ **Specialty:** Backend Architectures, CI/CD Pipelines, and modern UI design.
+- 💬 **Ask me about:** `TypeScript`, `React`, `Docker`, `Kubernetes`, and `AWS`.
+- 📫 **Let's Connect:** [yousseflagmouch@gmail.com](mailto:yousseflagmouch@gmail.com)
+
+<br>
+
+<p align="left">
+  <img src="https://img.shields.io/badge/-Full_Stack_Dev-0088ff?style=for-the-badge&logo=react&logoColor=white" alt="Full Stack" />
+  <img src="https://img.shields.io/badge/-DevOps_Engineer-0088ff?style=for-the-badge&logo=docker&logoColor=white" alt="DevOps" />
+  <img src="https://img.shields.io/badge/-Casablanca_MA-0088ff?style=for-the-badge&logo=google-maps&logoColor=white" alt="Casablanca" />
+</p>
 
 <br clear="both">
 
