@@ -1,186 +1,197 @@
 
-<!-- PREMIUM ANIMATED HEADER -->
+<!--
+01011001 01101111 01110101 01110011 01110011 01100101 01100110 00100000
+01001100 01100001 01100111 01101101 01101111 01110101 01100011 01101000
+00100000 01000110 01110101 01101100 01101100 00100000 01010011 01110100
+01100001 01100011 01101011 00100000 01000100 01100101 01110110 01001111
+01110000 01110011 00100000 01000101 01101110 01100111 01101001 01101110
+01100101 01100101 01110010
+-->
+
 <div align="center">
-  
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=38&pause=700&color=00FFFF&center=true&vCenter=true&random=false&width=900&height=80&lines=%E2%9A%A1+YOUSSEF+LAGMOUCH+%E2%9A%A1;Full+Stack+Engineer+%26+DevOps;Cloud+Architect+%7C+SRE;Infrastructure+Automation+Expert" alt="Typing Header" />
-  </a>
 
-  <br>
+```
+01011001 01001111 01010101 01010011 01010011 01000101 01000110
+```
 
-  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="900" />
+# 👋 Youssef Lagmouch
+### Full Stack Engineer | DevOps | Cloud Architect
 
-</div>
+---
+
+<a href="https://github.com/Lagmouchyoussef">
+  <img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+<a href="https://www.linkedin.com/in/youssef-lagmouch-51557a2b3/?locale=fr">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="mailto:yousseflagmouch@gmail.com">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
 
 <br>
 
-<!-- BADGES -->
-<div align="center">
-  
-  <a href="https://github.com/Lagmouchyoussef" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/youssef-lagmouch-51557a2b3/?locale=fr" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:yousseflagmouch@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-
-  <br>
-  <br>
-
-  <img src="https://komarev.com/ghpvc/?username=Lagmouchyoussef&style=for-the-badge&color=00FFFF&label=PROFILE+VIEWS" />
-  <img src="https://img.shields.io/github/followers/Lagmouchyoussef?style=for-the-badge&logo=github&color=00FFFF" />
-  <img src="https://img.shields.io/badge/STATUS-AVAILABLE-00FF00?style=for-the-badge" />
-
-</div>
-
----
-
-## 👨‍💻 ABOUT ME
-
-<img align="right" width="300" src="https://i.imgflip.com/65efzo.gif" />
+![](https://komarev.com/ghpvc/?username=Lagmouchyoussef&color=0088ff&style=flat-square)
+![](https://img.shields.io/github/followers/Lagmouchyoussef?color=0088ff&logo=github&style=flat-square)
 
 ```
-┌──────────────────────────────────────────────────────────────────┐
-│  🚀 FULL STACK DEVELOPER & DEVOPS ENGINEER                      │
-│  📍 Marrakech, Morocco 🇲🇦                                        │
-├──────────────────────────────────────────────────────────────────┤
-│  I build production-grade web applications and design scalable  │
-│  cloud infrastructure. Specialized in automating everything.    │
-│  Passionate about reliability, performance and security.        │
-└──────────────────────────────────────────────────────────────────┘
+01000110 01010101 01001100 01001100 00100000 01010011 01010100 01000001
+01000011 01001011 00100000 01000100 01000101 01010110 01001111 01010000
+01010011 00100000 01000101 01001110 01000111 01001001 01001110 01000101
+01000101 01010010
 ```
 
-<br clear="both">
-
----
-
-## 🛠️ TECH STACK
-
-<div align="center">
-
-  <!-- ALL ICONS 100% WORKING -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" height="40" alt="golang" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="40" alt="kubernetes" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" height="40" alt="aws" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" alt="tailwind" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" height="40" alt="redis" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" height="40" alt="terraform" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux" />
-
 </div>
 
 ---
 
-## 📊 GITHUB STATS
+## 📌 About Me
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Lagmouchyoussef&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Lagmouchyoussef&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+```yaml
+name: Youssef Lagmouch
+location: Morocco 🇲🇦
+role: Full Stack Developer & DevOps Engineer
+focus: Building scalable, reliable and secure systems
+philosophy: Automate everything that can be automated
+```
+
+---
+
+## 🛠️ Technical Stack
+
+### Programming Languages
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="32" alt="JavaScript" />
+  <img width="8" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="32" alt="TypeScript" />
+  <img width="8" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="32" alt="Python" />
+  <img width="8" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" height="32" alt="Go" />
+  <img width="8" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="32" alt="Java" />
+  <img width="8" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="32" alt="PHP" />
+  <img width="8" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg" height="32" alt="Rust" />
+  <img width="8" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="32" alt="Bash" />
+  <img width="8" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="32" alt="C" />
+</div>
+
+### Frontend
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="32" alt="React" />
+  <img width="8" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="32" alt="Next.js" />
+  <img width="8" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="32" alt="Vue" />
+  <img width="8" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="32" alt="Tailwind" />
+  <img width="8" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="32" alt="HTML5" />
+  <img width="8" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="32" alt="CSS3" />
+  <img width="8" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="32" alt="SASS" />
+</div>
+
+### Backend & Databases
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="32" alt="Node.js" />
+  <img width="8" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="32" alt="Express" />
+  <img width="8" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" height="32" alt="Laravel" />
+  <img width="8" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="32" alt="Django" />
+  <img width="8" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="32" alt="PostgreSQL" />
+  <img width="8" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="32" alt="MySQL" />
+  <img width="8" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="32" alt="MongoDB" />
+  <img width="8" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" height="32" alt="Redis" />
+</div>
+
+### DevOps & Cloud
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="32" alt="Docker" />
+  <img width="8" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="32" alt="Kubernetes" />
+  <img width="8" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" height="32" alt="AWS" />
+  <img width="8" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="32" alt="GCP" />
+  <img width="8" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="32" alt="Azure" />
+  <img width="8" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" height="32" alt="Terraform" />
+  <img width="8" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-original.svg" height="32" alt="Ansible" />
+  <img width="8" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" height="32" alt="Jenkins" />
+  <img width="8" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" height="32" alt="Nginx" />
+  <img width="8" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="32" alt="Git" />
+  <img width="8" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="32" alt="Linux" />
 </div>
 
 ---
 
-## 🔥 STREAK & TROPHIES
+## 📊 GitHub Statistics
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=Lagmouchyoussef&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
-  <img src="https://github-profile-trophy.vercel.app?username=Lagmouchyoussef&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false" height="150" alt="trophy graph"  />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Lagmouchyoussef&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Lagmouchyoussef&theme=tokyonight&hide_border=true" />
+  <br><br>
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lagmouchyoussef&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
 </div>
 
 ---
 
-## 🎮 SNAKE GAME GIF ANIMATION
+## 🏆 Achievements
 
 <div align="center">
-  <h3>🐍 CONTRIBUTION SNAKE GAME</h3>
-  <br>
-  <!-- ORIGINAL GIF ANIMATION 100% WORKING -->
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="Snake Game Animation" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Lagmouchyoussef&theme=tokyonight&no-frame=true&row=1&column=7" />
 </div>
 
 ---
 
-## 🎯 ACTIVITY GRAPH
+## 🐍 Contribution Snake
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Lagmouchyoussef&radius=16&theme=dracula&area=true&hide_border=false" height="300" alt="activity graph"  />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Lagmouchyoussef/Lagmouchyoussef/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Lagmouchyoussef/Lagmouchyoussef/output/github-snake.svg" />
+    <img alt="snake" src="https://raw.githubusercontent.com/Lagmouchyoussef/Lagmouchyoussef/output/github-snake.svg" />
+  </picture>
 </div>
 
 ---
 
-## ✨ EXTRAS
+## 🎯 Activity
 
 <div align="center">
-
-  ### 📜 RANDOM DEV QUOTE
-  ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula)
-
-  <br>
-
-  ### 😂 RANDOM DEV JOKE
-  ![Jokes Card](https://readme-jokes.vercel.app/api?theme=dracula)
-
-</div>
-
----
-
-## 📫 GET IN TOUCH
-
-<div align="center">
-  <a href="https://github.com/Lagmouchyoussef" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Github&logo=github&label=&color=181717&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="github"  />
-  </a>
-  <a href="https://www.linkedin.com/in/youssef-lagmouch-51557a2b3/?locale=fr" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin"  />
-  </a>
-  <a href="mailto:yousseflagmouch@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail"  />
-  </a>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Lagmouchyoussef&theme=tokyo-night&hide_border=true" />
 </div>
 
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00FFFF&height=100&section=footer" />
-  
-  <p>
-    <i>⚡ Automating the world, one commit at a time</i>
-  </p>
-  
-  <p>
-    Show some ❤️ by starring my repositories!
-  </p>
+
+```
+01010100 01101000 01100001 01101110 01101011 00100000 01111001 01101111
+01110101 00100000 01100110 01101111 01110010 00100000 01110110 01101001
+01110011 01101001 01110100 01101001 01101110 01100111 00100000 01101101
+01111001 00100000 01110000 01110010 01101111 01100110 01101001 01101100
+01100101 00100001
+```
+
+### ⭐ Star my repositories if you find them useful!
+
 </div>
