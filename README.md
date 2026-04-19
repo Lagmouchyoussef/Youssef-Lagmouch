@@ -9,13 +9,15 @@
 ---
 
 <a href="https://github.com/Lagmouchyoussef">
-  <img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="GitHub" />
 </a>
+<img width="20" />
 <a href="https://www.linkedin.com/in/youssef-lagmouch-51557a2b3/?locale=fr">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="40" alt="LinkedIn" />
 </a>
+<img width="20" />
 <a href="mailto:yousseflagmouch@gmail.com">
-  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  <img src="https://skillicons.dev/icons?i=gmail" height="40" alt="Email" />
 </a>
 
 <br>
@@ -183,13 +185,15 @@ motto: Automate everything that can be automated
 ---
 
 <a href="https://github.com/Lagmouchyoussef">
-  <img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="GitHub" />
 </a>
+<img width="20" />
 <a href="https://www.linkedin.com/in/youssef-lagmouch-51557a2b3/?locale=fr">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="40" alt="LinkedIn" />
 </a>
+<img width="20" />
 <a href="mailto:yousseflagmouch@gmail.com">
-  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  <img src="https://skillicons.dev/icons?i=gmail" height="40" alt="Email" />
 </a>
 
 <br>
