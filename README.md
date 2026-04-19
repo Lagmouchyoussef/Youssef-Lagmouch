@@ -133,10 +133,10 @@ motto: Automate everything that can be automated
 
 ---
 
-## 🏆 ACHIEVEMENTS
+## 🏆 GITHUB TROPHIES
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Lagmouchyoussef&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Lagmouchyoussef&theme=onedark&no-frame=true&row=1&column=4&margin-w=20" />
 </div>
 
 ---
