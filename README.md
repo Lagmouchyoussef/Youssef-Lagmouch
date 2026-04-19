@@ -1,274 +1,381 @@
 
-<!--  ██╗  ██╗███████╗██╗     ██╗      ██████╗ 
-      ██║  ██║██╔════╝██║     ██║     ██╔═══██╗
-      ███████║█████╗  ██║     ██║     ██║   ██║
-      ██╔══██║██╔══╝  ██║     ██║     ██║   ██║
-      ██║  ██║███████╗███████╗███████╗╚██████╔╝
-      ╚═╝  ╚═╝╚══════╝╚══════╝╚══════╝ ╚═════╝  -->
+<!--
+ ██████╗ ███████╗██╗   ██╗███████╗██╗     ██████╗ ██████╗ 
+ ██╔══██╗██╔════╝██║   ██║██╔════╝██║     ██╔══██╗██╔══██╗
+ ██████╔╝█████╗  ██║   ██║█████╗  ██║     ██████╔╝██████╔╝
+ ██╔══██╗██╔══╝  ╚██╗ ██╔╝██╔══╝  ██║     ██╔═══╝ ██╔══██╗
+ ██║  ██║███████╗ ╚████╔╝ ███████╗███████╗██║     ██║  ██║
+ ╚═╝  ╚═╝╚══════╝  ╚═══╝  ╚══════╝╚══════╝╚═╝     ╚═╝  ╚═╝
+                                                          
+     ███████╗██╗     ██╗████████╗███████╗     ██████╗ ██████╗ ██████╗ ███████╗
+     ██╔════╝██║     ██║╚══██╔══╝██╔════╝    ██╔════╝██╔═══██╗██╔══██╗██╔════╝
+     █████╗  ██║     ██║   ██║   █████╗      ██║     ██║   ██║██████╔╝█████╗  
+     ██╔══╝  ██║     ██║   ██║   ██╔══╝      ██║     ██║   ██║██╔══██╗██╔══╝  
+     ███████╗███████╗██║   ██║   ███████╗    ╚██████╗╚██████╔╝██║  ██║███████╗
+     ╚══════╝╚══════╝╚═╝   ╚═╝   ╚══════╝     ╚═════╝ ╚═════╝ ╚═╝  ╚═╝╚══════╝
+-->
 
-<!-- ANIMATED HEADER BANNER -->
+<!-- PREMIUM ANIMATED HEADER -->
 <div align="center">
+  
+  <!-- GLITCH EFFECT LOGO -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=35&pause=1000&color=00D9FF&center=true&vCenter=true&random=false&width=750&height=70&lines=Youssef+Lagmouch;Full+Stack+Engineer+%26+DevOps;Cloud+Architect+%E2%98%81%EF%B8%8F;SRE+%7C+Infrastructure+Automation;Building+Scalable+Systems+%E2%9A%A1" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=38&pause=700&color=00FFFF&center=true&vCenter=true&random=false&width=900&height=80&lines=%E2%9A%A1+YOUSSEF+LAGMOUCH+%E2%9A%A1;Full+Stack+Engineer+%26+DevOps;Cloud+Architect+%7C+SRE;Infrastructure+Automation+Expert;Building+Systems+That+Scale" alt="Typing Header" />
   </a>
+
+  <br>
+  <br>
+
+  <!-- MAIN BANNER -->
+  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="1000" />
+
 </div>
 
 <br>
 
-<!-- PROFILE BANNER GIF -->
+<!-- METRICS BADGES -->
 <div align="center">
-  <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="800" height="400" alt="Coding"/>
-</div>
-
-<br>
-
-<!-- BADGES SECTION -->
-<div align="center">
-
+  
   <a href="https://github.com/Lagmouchyoussef" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+    <img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  
   <a href="https://www.linkedin.com/in/youssef-lagmouch-51557a2b3/?locale=fr" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  
   <a href="mailto:yousseflagmouch@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  
-  <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
-  
+  <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
+
   <br>
   <br>
-  
-  <img src="https://komarev.com/ghpvc/?username=Lagmouchyoussef&color=00D9FF&style=for-the-badge" alt="Profile Views"/>
-  <img src="https://img.shields.io/github/followers/Lagmouchyoussef?logo=github&style=for-the-badge&color=00D9FF" alt="Followers"/>
-  <img src="https://img.shields.io/badge/Available-for%20hire-brightgreen?style=for-the-badge" alt="Hire Me"/>
+
+  <img src="https://komarev.com/ghpvc/?username=Lagmouchyoussef&style=for-the-badge&color=00FFFF&label=PROFILE+VIEWS" />
+  <img src="https://img.shields.io/github/followers/Lagmouchyoussef?style=for-the-badge&logo=github&color=00FFFF" />
+  <img src="https://img.shields.io/badge/STATUS-AVAILABLE-00FF00?style=for-the-badge" />
 
 </div>
 
 ---
 
-## 👨‍💻 About Me
+## 👨‍💻 ABOUT ME
 
-<img align="right" height="280" src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Working"/>
+<img align="right" width="350" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" />
 
-```yaml
-┌─────────────────────────────────────────────────────────────┐
-│ 👤 NAME          : Youssef Lagmouch                         │
-│ 📍 LOCATION      : Morocco 🇲🇦                                │
-│ 💼 POSITION      : Full Stack Developer & DevOps Engineer   │
-│ 🎓 EDUCATION     : Computer Science Engineer                │
-│ 💻 EXPERIENCE    : Building production systems              │
-│ 🌍 LANGUAGES     : English, French, Arabic                  │
-└─────────────────────────────────────────────────────────────┘
-
-┌─────────────────────────────────────────────────────────────┐
-│ 🔥 SPECIALIZATIONS                                           │
-├─────────────────────────────────────────────────────────────┤
-│   ✅ Full Stack Web Development                              │
-│   ✅ Cloud Architecture & Design                             │
-│   ✅ DevOps & CI/CD Pipeline Automation                      │
-│   ✅ Infrastructure as Code (IaC)                            │
-│   ✅ Site Reliability Engineering (SRE)                      │
-│   ✅ System Administration & Security                        │
-│   ✅ Microservices & Distributed Systems                     │
-│   ✅ Container Orchestration & Management                    │
-└─────────────────────────────────────────────────────────────┘
-
-┌─────────────────────────────────────────────────────────────┐
-│ 📚 CURRENTLY LEARNING                                       │
-├─────────────────────────────────────────────────────────────┤
-│   • Kubernetes Advanced Patterns                            │
-│   • Terraform & Infrastructure Automation                   │
-│   • Golang Systems Programming                              │
-│   • Rust for High Performance Applications                  │
-│   • Cybersecurity & Penetration Testing                     │
-│   • Machine Learning Operations (MLOps)                     │
-└─────────────────────────────────────────────────────────────┘
-
-┌─────────────────────────────────────────────────────────────┐
-│ 💡 PASSIONS & INTERESTS                                     │
-├─────────────────────────────────────────────────────────────┤
-│   • Open Source Contribution                                │
-│   • Automating everything possible                          │
-│   • Building reliable & scalable systems                    │
-│   • Continuous learning & skill improvement                 │
-│   • Solving complex infrastructure problems                 │
-│   • Gaming & Tech Communities                               │
-└─────────────────────────────────────────────────────────────┘
+```
+┌──────────────────────────────────────────────────────────────────────────┐
+│  🚀 FULL STACK DEVELOPER & DEVOPS ENGINEER                              │
+│  📍 Marrakech, Morocco 🇲🇦                                                │
+├──────────────────────────────────────────────────────────────────────────┤
+│                                                                          │
+│  I build production-grade web applications and design scalable cloud     │
+│  infrastructure. Specialized in automating everything that can be        │
+│  automated. Passionate about reliability, performance and security.      │
+│                                                                          │
+│  When I'm not coding you can find me exploring new technologies,         │
+│  contributing to open source, or breaking things to understand how       │
+│  they work.                                                              │
+│                                                                          │
+├──────────────────────────────────────────────────────────────────────────┤
+│  ✅ 4+ years experience building production systems                      │
+│  ✅ Designed and maintained infrastructure for 100K+ users               │
+│  ✅ Reduced deployment time by 85% with CI/CD automation                 │
+│  ✅ Implemented zero-downtime deployment strategies                      │
+│  ✅ Open source contributor                                               │
+└──────────────────────────────────────────────────────────────────────────┘
 ```
 
 <br clear="both">
 
 ---
 
-## 🛠️ Complete Tech Stack
+## 🛠️ TECH STACK
 
 <div align="center">
 
-### 🚀 PROGRAMMING LANGUAGES
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
-![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Bash](https://img.shields.io/badge/bash-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
+### 🔤 PROGRAMMING LANGUAGES
+<table>
+  <tr>
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="48" height="48" />
+      <br>JavaScript
+    </td>
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="TypeScript" width="48" height="48" />
+      <br>TypeScript
+    </td>
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="48" height="48" />
+      <br>Python
+    </td>
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/go-icon.svg" alt="Golang" width="48" height="48" />
+      <br>Go
+    </td>
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="Java" width="48" height="48" />
+      <br>Java
+    </td>
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/php-icon.svg" alt="PHP" width="48" height="48" />
+      <br>PHP
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=rust" alt="Rust" width="48" height="48" />
+      <br>Rust
+    </td>
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/bash-icon.svg" alt="Bash" width="48" height="48" />
+      <br>Bash
+    </td>
+  </tr>
+</table>
 
-<br>
+### ⚛️ FRONTEND
+<table>
+  <tr>
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="48" height="48" />
+      <br>React
+    </td>
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/nextjs-icon.svg" alt="NextJS" width="48" height="48" />
+      <br>Next.js
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=vue" alt="Vue" width="48" height="48" />
+      <br>Vue
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=tailwind" alt="Tailwind" width="48" height="48" />
+      <br>Tailwind
+    </td>
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/sass-icon.svg" alt="Sass" width="48" height="48" />
+      <br>Sass
+    </td>
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/html-icon.svg" alt="HTML5" width="48" height="48" />
+      <br>HTML5
+    </td>
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/css-icon.svg" alt="CSS3" width="48" height="48" />
+      <br>CSS3
+    </td>
+  </tr>
+</table>
 
-### ⚛️ FRONTEND DEVELOPMENT
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
-![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
+### 🖥️ BACKEND & DATABASES
+<table>
+  <tr>
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/nodejs-icon.svg" alt="NodeJS" width="48" height="48" />
+      <br>Node.js
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=express" alt="Express" width="48" height="48" />
+      <br>Express
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=laravel" alt="Laravel" width="48" height="48" />
+      <br>Laravel
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=django" alt="Django" width="48" height="48" />
+      <br>Django
+    </td>
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/postgres-icon.svg" alt="PostgreSQL" width="48" height="48" />
+      <br>PostgreSQL
+    </td>
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL" width="48" height="48" />
+      <br>MySQL
+    </td>
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/mongodb-icon.svg" alt="MongoDB" width="48" height="48" />
+      <br>MongoDB
+    </td>
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/redis-icon.svg" alt="Redis" width="48" height="48" />
+      <br>Redis
+    </td>
+  </tr>
+</table>
 
-<br>
+### ☁️ DEVOPS & CLOUD
+<table>
+  <tr>
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="Docker" width="48" height="48" />
+      <br>Docker
+    </td>
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/kubernetes-icon.svg" alt="Kubernetes" width="48" height="48" />
+      <br>Kubernetes
+    </td>
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="AWS" width="48" height="48" />
+      <br>AWS
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=gcp" alt="GCP" width="48" height="48" />
+      <br>GCP
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=azure" alt="Azure" width="48" height="48" />
+      <br>Azure
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=terraform" alt="Terraform" width="48" height="48" />
+      <br>Terraform
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=ansible" alt="Ansible" width="48" height="48" />
+      <br>Ansible
+    </td>
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub Actions" width="48" height="48" />
+      <br>CI/CD
+    </td>
+  </tr>
+</table>
 
-### 🖥️ BACKEND DEVELOPMENT
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
-![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
-![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
-
-<br>
-
-### ☁️ CLOUD PROVIDERS
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
-![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![DigitalOcean](https://img.shields.io/badge/DigitalOcean-%230167ff.svg?style=for-the-badge&logo=digitalOcean&logoColor=white)
-![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
-
-<br>
-
-### 🐳 DEVOPS & INFRASTRUCTURE
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)
-![Ansible](https://img.shields.io/badge/ansible-%231A1918.svg?style=for-the-badge&logo=ansible&logoColor=white)
-![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
-![GitLab CI](https://img.shields.io/badge/gitlab%20ci-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
-![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
-![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=Prometheus&logoColor=white)
-![Grafana](https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white)
-
-<br>
-
-### 💾 DATABASES
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
-![ElasticSearch](https://img.shields.io/badge/-ElasticSearch-005571?style=for-the-badge&logo=elasticsearch)
-![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
+### 🔧 TOOLS & OTHERS
+<table>
+  <tr>
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/git-icon.svg" alt="Git" width="48" height="48" />
+      <br>Git
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=linux" alt="Linux" width="48" height="48" />
+      <br>Linux
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=nginx" alt="Nginx" width="48" height="48" />
+      <br>Nginx
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=prometheus" alt="Prometheus" width="48" height="48" />
+      <br>Prometheus
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=grafana" alt="Grafana" width="48" height="48" />
+      <br>Grafana
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=vscode" alt="VS Code" width="48" height="48" />
+      <br>VS Code
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=vim" alt="Vim" width="48" height="48" />
+      <br>Vim
+    </td>
+  </tr>
+</table>
 
 </div>
 
 ---
 
-## 📊 GitHub Analytics
+## 📊 GITHUB ANALYTICS
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Lagmouchyoussef&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Lagmouchyoussef&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-  <br/>
-  <br/>
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lagmouchyoussef&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Lagmouchyoussef&theme=tokyonight&utcOffset=1" alt="Productive Time" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Lagmouchyoussef&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&custom_title=GitHub%20Stats" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Lagmouchyoussef&theme=tokyonight&hide_border=true" />
+  <br><br>
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lagmouchyoussef&layout=compact&theme=tokyonight&hide_border=true&langs_count=10&custom_title=Most%20Used%20Languages" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Lagmouchyoussef&theme=tokyonight&utcOffset=1" />
 </div>
 
 ---
 
-## 🏆 GitHub Trophies
+## 🏆 GITHUB TROPHIES
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Lagmouchyoussef&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=10" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Lagmouchyoussef&theme=tokyonight&no-frame=true&row=1&column=8&margin-w=12" />
 </div>
 
 ---
 
-## 🎯 Contribution Activity Graph
+## 🎯 ACTIVITY GRAPH
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Lagmouchyoussef&theme=tokyo-night&hide_border=true&bg_color=1a1b27" alt="Contribution Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Lagmouchyoussef&theme=tokyo-night&hide_border=true&bg_color=1a1b27&custom_title=Contribution%20Activity" />
 </div>
 
 ---
 
-## 🎮 Contribution Games
+## 🎮 CONTRIBUTION GAMES
 
 <div align="center">
-  <h3>🐍 Snake Game</h3>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Lagmouchyoussef/Lagmouchyoussef/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Lagmouchyoussef/Lagmouchyoussef/output/github-snake.svg" />
-    <img alt="github-snake" src="https://raw.githubusercontent.com/Lagmouchyoussef/Lagmouchyoussef/output/github-snake.svg" />
-  </picture>
-</div>
 
-<br>
+### 🐍 SNAKE GAME
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Lagmouchyoussef/Lagmouchyoussef/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Lagmouchyoussef/Lagmouchyoussef/output/github-snake.svg" />
+  <img alt="Snake Game" src="https://raw.githubusercontent.com/Lagmouchyoussef/Lagmouchyoussef/output/github-snake.svg" />
+</picture>
 
-<div align="center">
-  <h3>👻 Pacman Game</h3>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Lagmouchyoussef/Lagmouchyoussef/output/pacman-contribution-graph-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Lagmouchyoussef/Lagmouchyoussef/output/pacman-contribution-graph.svg">
-    <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Lagmouchyoussef/Lagmouchyoussef/output/pacman-contribution-graph.svg">
-  </picture>
+<br><br>
+
+### 👻 PACMAN GAME
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Lagmouchyoussef/Lagmouchyoussef/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Lagmouchyoussef/Lagmouchyoussef/output/pacman-contribution-graph.svg">
+  <img alt="Pacman Game" src="https://raw.githubusercontent.com/Lagmouchyoussef/Lagmouchyoussef/output/pacman-contribution-graph.svg" />
+</picture>
+
 </div>
 
 ---
 
-## ✨ Extra Features
+## ✨ EXTRAS
 
 <div align="center">
 
-### 📜 Random Developer Quote
+### 📜 RANDOM DEV QUOTE
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 <br>
 
-### 😂 Random Dev Joke
+### 😂 RANDOM DEV JOKE
 ![Jokes Card](https://readme-jokes.vercel.app/api?theme=tokyonight)
+
+<br>
+
+### 🎵 NOW PLAYING
+[![Spotify](https://readme-spotify-yingmanaw.vercel.app/api/spotify)](https://open.spotify.com/)
 
 </div>
 
 ---
 
-## 📫 Connect With Me
+## 📫 GET IN TOUCH
 
 <div align="center">
   <a href="https://github.com/Lagmouchyoussef" target="_blank">
-    <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+    <img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/youssef-lagmouch-51557a2b3/?locale=fr" target="_blank">
-    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:yousseflagmouch@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-  </a>
-  <a href="https://discord.com/">
-    <img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </div>
 
 ---
 
 <div align="center">
-  <h3>⭐ Show some ❤️ by starring some of my repositories!</h3>
-  <br>
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00D9FF&height=120&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00FFFF&height=120&section=footer" />
+  
+  <p>
+    <i>⚡ Automating the world, one commit at a time</i>
+  </p>
+  
+  <p>
+    If you like what I do, give my repos a ⭐ It really helps!
+  </p>
 </div>
-
-<!-- END OF README -->
