@@ -8,16 +8,18 @@
 
 ---
 
-<!-- SOCIAL ICONS BOOTSTRAP STYLE -->
+<!-- SOCIAL ICONS SVG LOGOS -->
 <p align="center">
   <a href="https://github.com/Lagmouchyoussef">
-    <img src="https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white" alt="GitHub" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="48" alt="GitHub" />
   </a>
+  <img width="25" />
   <a href="https://www.linkedin.com/in/youssef-lagmouch-51557a2b3/?locale=fr">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white" alt="LinkedIn" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="48" alt="LinkedIn" />
   </a>
+  <img width="25" />
   <a href="mailto:yousseflagmouch@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335.svg?style=for-the-badge&logo=Gmail&logoColor=white" alt="Gmail" />
+    <img src="https://skillicons.dev/icons?i=gmail" height="48" alt="Email" />
   </a>
 </p>
 
