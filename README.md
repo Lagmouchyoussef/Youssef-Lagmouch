@@ -32,13 +32,24 @@
 
 ---
 
-# <img src="https://emojis.slackmojis.com/emojis/images/1577305505/7373/hand_wave.gif?1577305505" width="30"/> Hey What's up?
-🇲🇦 My name is Youssef and I'm a Full Stack Developer & DevOps Engineer, from Morocco.
+## 👨‍💻 About Me
 
-- ✨ Automating everything that can be automated ⚙️
-- 📚 I'm currently focusing on **Cloud-native infrastructures** and **AWS** ☁️
-- 🎯 Goals: Build high-performance scalable systems 🚀
-- 🎲 And ... I love turning complex problems into elegant solutions 🧩
+<img align="right" width="260" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding Animation" />
+
+> **"Automate everything that can be automated."** ⚙️
+
+Hey What's up? 👋
+
+<img align="right" height="22" src="https://flagcdn.com/w80/ma.png" alt="Morocco Flag" /> 
+
+My name is Youssef and I'm a **Full Stack Developer & DevOps Engineer** from Morocco.
+
+✨ Automating everything that can be automated ⚙️  
+📚 Currently focusing on Cloud-native infrastructures and AWS ☁️  
+🎯 Goals: Build high-performance scalable systems 🚀  
+🧩 I love turning complex problems into elegant solutions
+
+<br clear="both">
 
 ---
 
