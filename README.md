@@ -1,224 +1,91 @@
+<h2 align="left">Hi 👋! My name is Youssef Lagmouch and I'm a Full Stack Developer & DevOps Engineer, from Morocco 🇲🇦</h2>
 
-<h1 align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;I'm+Youssef+LAGMOUCH!;DevOps+Engineer+🚀;Cloud+Architect+☁️;Full-Stack+Developer+💻" />
-  </a>
-</h1>
-    "kilo-code.new.showTaskTimeline": false,
-<h3 align="center">A passionate DevOps Engineer & Full-Stack Developer from Morocco 🇲🇦</h3>
-
-<br/>
+###
 
 <div align="center">
- 
- 🔭 I'm currently working on **Cloud Infrastructure & CI/CD Pipelines**
- 
- 🌱 I'm currently learning **Kubernetes, AWS, Terraform, Go**
+  <img src="https://github-readme-stats.vercel.app/api?username=Lagmouchyoussef&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Lagmouchyoussef&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+</div>
 
-💬 Ask me about **DevOps, Docker, Kubernetes, CI/CD, Cloud, React, Node.js... or anything [here](https://github.com/Lagmouchyoussef/Lagmouchyoussef/issues)**
+###
 
-⚡ Fun fact **I automate things before I do them manually**
+<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
 
- </div>
- 
-<div align="center"> 
-  <a href="mailto:youcode.lagmouch@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="30" alt="nextjs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="30" alt="docker logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="30" alt="kubernetes logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" height="30" alt="aws logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
+</div>
+
+###
+
+<div align="left">
+  <a href="https://github.com/Lagmouchyoussef" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Github&logo=github&label=&color=181717&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="github logo"  />
   </a>
   <a href="https://www.linkedin.com/in/youssef-lagmouch-51557a2b3/?locale=fr" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
-  <a href="https://github.com/Lagmouchyoussef" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank" />
+  <a href="mailto:yousseflagmouch@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   </a>
+  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
 </div>
 
- <hr/>
- 
-<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
-<br/>
-<div align="center">
-    <img src="https://skillicons.dev/icons?i=aws,gcp,azure,terraform,ansible,kubernetes,docker,jenkins,githubactions,gitlab,linux,bash" /><br>
-    <img src="https://skillicons.dev/icons?i=react,nextjs,vue,nodejs,typescript,javascript,python,go,postgres,mongodb,redis,nginx" /><br>
-    <img src="https://skillicons.dev/icons?i=prometheus,grafana,elasticsearch,promtail,argocd,helm,terraform,vim,vscode,figma" />
-</div>
+###
 
-<br/>
-<hr/>
+<br clear="both">
 
-<div align="center">
-  <h2>🐍 My Contributions 🐍</h2>
-  <br>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Lagmouchyoussef/Lagmouchyoussef/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Lagmouchyoussef/Lagmouchyoussef/output/github-contribution-grid-snake.svg" />
-    <img alt="github-snake" src="https://raw.githubusercontent.com/Lagmouchyoussef/Lagmouchyoussef/output/github-contribution-grid-snake.svg" />
-  </picture>
-  <br/><br/><br/>
-</div>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Lagmouchyoussef/Lagmouchyoussef/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Lagmouchyoussef/Lagmouchyoussef/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/Lagmouchyoussef/Lagmouchyoussef/output/github-snake.svg" />
+</picture>
 
-<hr/>
-
-<h2 align="center">⚡ Stats ⚡</h2>
-<br>
-<div align=center>
-  <a href="https://git.io/streak-stats">
-    <img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=Lagmouchyoussef&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
-  </a>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img width=390 src="https://github-readme-stats-salesp07.vercel.app/api?username=Lagmouchyoussef&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
-  </a>
-  <br/>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img width=325 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=Lagmouchyoussef&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
-  </a>
-</div>
-
-<br/><br/>
-
-<hr/>
+###
 
 <div align="center">
-  <h2>💻 DevOps Activity Graph</h2>
-  <br>
-  <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Lagmouchyoussef&bg_color=0d1117&color=58a6ff&line=1f6feb&point=388bfd&area_color=1f6feb&area=true&hide_border=true&custom_title=Lagmouchyoussef%27s%20Contribution%20Graph" alt="Contribution Graph" />
-  </a>
+  <img src="https://streak-stats.demolab.com?user=Lagmouchyoussef&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
 </div>
 
-<br/>
-<hr/>
-
-<h2 align="center">🏆 GitHub Trophies 🏆</h2>
-<br>
-<div align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=Lagmouchyoussef&theme=onedark&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies" />
-  </a>
-</div>
-
-<br/>
-<hr/>
+###
 
 <div align="center">
-  <h2>🚀 DevOps Skills Overview</h2>
-  <br>
-  <table>
-    <tr>
-      <td valign="top" width="33%">
-        <h3 align="center">☁️ Cloud</h3>
-        <div align="center">  
-          <img src="https://skillicons.dev/icons?i=aws,gcp,azure,terraform,ansible" />
-        </div>
-      </td>
-      <td valign="top" width="33%">
-        <h3 align="center">🐳 Containers</h3>
-        <div align="center">
-          <img src="https://skillicons.dev/icons?i=docker,kubernetes,helm,argocd,podman" />
-        </div>
-      </td>
-      <td valign="top" width="33%">
-        <h3 align="center">🔧 CI/CD</h3>
-        <div align="center">
-          <img src="https://skillicons.dev/icons?i=jenkins,githubactions,gitlab,circleci,argo" />
-        </div>
-      </td>
-    </tr>
-    <tr>
-      <td valign="top" width="33%">
-        <h3 align="center">📊 Monitoring</h3>
-        <div align="center">  
-          <img src="https://skillicons.dev/icons?i=prometheus,grafana,elasticsearch,promtail,loki" />
-        </div>
-      </td>
-      <td valign="top" width="33%">
-        <h3 align="center">💻 Development</h3>
-        <div align="center">
-          <img src="https://skillicons.dev/icons?i=react,nodejs,typescript,python,go" />
-        </div>
-      </td>
-      <td valign="top" width="33%">
-        <h3 align="center">🛠️ Tools</h3>
-        <div align="center">
-          <img src="https://skillicons.dev/icons?i=linux,bash,git,nginx,vim" />
-        </div>
-      </td>
-    </tr>
-  </table>
+  <img src="https://github-profile-trophy.vercel.app?username=Lagmouchyoussef&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
 </div>
 
-<br/>
-<hr/>
+###
 
 <div align="center">
-  <h2>📈 Recent Activity</h2>
-  <br>
-  <a href="https://github.com/jamesgeorge007/github-activity-readme">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Lagmouchyoussef&theme=react-dark&hide_border=true" alt="Recent Activity" />
-  </a>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Lagmouchyoussef&radius=16&theme=dracula&area=true&order=5&hide_border=false&hide_title=false" height="300" alt="activity-graph graph"  />
 </div>
 
-<br/>
-<hr/>
-
-<h3 align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thanks+for+visiting!+✌️;Star+my+repos+if+you+like+them!;Always+learning+new+things+💡;Automate+Everything!+🤖" />
-  </a>
-</h3>
-
-<br/>
-
----
+###
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Lagmouchyoussef&style=for-the-badge&color=blue" alt="Profile Views" />
-  <a href="https://github.com/Lagmouchyoussef?tab=followers">
-    <img src="https://img.shields.io/github/followers/Lagmouchyoussef?label=Followers&style=for-the-badge&color=green" alt="GitHub Followers" />
-  </a>
-  <a href="https://github.com/Lagmouchyoussef?tab=stars">
-    <img src="https://img.shields.io/github/stars/Lagmouchyoussef?affiliations=OWNER%2CCOLLABORATOR&style=for-the-badge&color=yellow" alt="GitHub Stars" />
-  </a>
+  <img src="https://komarev.com/ghpvc/?username=Lagmouchyoussef&color=blueviolet&style=for-the-badge"  />
 </div>
 
----
-
-### 📝 How to setup the Snake Game Animation:
-
-Create a file `.github/workflows/snake.yml` in your profile repository:
-
-```yaml
-name: Generate Snake
-
-on:
-  schedule:
-    - cron: "0 */12 * * *"  # Runs every 12 hours
-  workflow_dispatch:
-  push:
-    branches:
-      - main
-
-permissions:
-  contents: write
-
-jobs:
-  build:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: actions/checkout@v4
-      
-      - uses: Platane/snk@v3
-        id: snake-gif
-        with:
-          github_user_name: Lagmouchyoussef
-          outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-      
-      - uses: crazy-max/ghaction-github-pages@v4
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-```
+###
