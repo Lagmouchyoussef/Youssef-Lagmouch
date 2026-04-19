@@ -3,7 +3,7 @@
 
 <!-- ANIMATED NAME TYPING GIF -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=40&pause=1000&color=0088FF&center=true&vCenter=true&width=700&height=80&lines=Youssef+Lagmouch;Full+Stack+Engineer;DevOps+%26+Cloud+Architect" alt="Animated Name" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=40&pause=1000&color=0088FF&center=true&vCenter=true&width=700&height=80&lines=Youssef+Lagmouch;Full+Stack+Engineer;DevOps+Engineer" alt="Animated Name" />
 </a>
 
 ---
@@ -179,7 +179,14 @@ motto: Automate everything that can be automated
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0088ff&height=100&section=footer" />
-  
-  <p>⭐ Star my repositories if you find them useful!</p>
+
+---
+
+```
+⚡ Building systems that scale | Automating everything
+📍 Marrakech, Morocco | Open for opportunities
+```
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0088ff&height=120&section=footer" />
+
 </div>
