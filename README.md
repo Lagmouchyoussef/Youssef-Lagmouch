@@ -1,13 +1,16 @@
 
 <div align="center">
 
-<!-- ANIMATED BINARY NAME TYPING -->
+<!-- ANIMATED BINARY NAME - YOUSSEF LAGMOUCH -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=22&pause=300&color=00FF00&center=true&vCenter=true&random=false&width=600&lines=01011001+01001111+01010101+01010011+01010011+01000101+01000110;00100000+01001100+01000001+01000111+01001101+01001111+01010101;01000011+01001000+YOUSSEF+LAGMOUCH" alt="Binary Animated Name" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=20&pause=400&color=00FF00&center=true&vCenter=true&random=false&width=750&height=50&lines=01011001+01001111+01010101+01010011+01010011+01000101+01000110;01000110+00100000+01001100+01000001+01000111+01001101+01001111;01010101+01000011+01001000+%E2%9C%85+YOUSSEF+LAGMOUCH" alt="Animated Binary Name" />
 </a>
 
-# 👋 Youssef Lagmouch
-### Full Stack Engineer | DevOps | Cloud Architect
+<br>
+<br>
+
+# 👨‍💻 Youssef Lagmouch
+## Full Stack Engineer | DevOps | Cloud Architect
 
 ---
 
@@ -31,23 +34,20 @@
 
 ---
 
-## 📌 About Me
+## 📌 ABOUT ME
 
-<img align="right" height="160" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
+<img align="right" height="180" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
 
-```yaml
-name: Youssef Lagmouch
-location: Morocco 🇲🇦
-role: Full Stack Developer & DevOps Engineer
-specialty: High performance scalable systems
-motto: Automate everything that can be automated
-```
+<!-- ANIMATED BINARY ABOUT ME -->
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&pause=300&color=00FFFF&center=false&vCenter=true&random=false&width=500&height=150&lines=01000110+01110101+01101100+01101100+00100000+01010011;01110100+01100001+01100011+01101011+00100000+01000100;01100101+01110110+01001111+01010000+01110011+00100000;01000101+01101110+01100111+01101001+01101110+01100101;01100101+01110010+00100000+01000110+01110010+01101111;01101101+00100000+01001101+01101111+01110010+01101111;01100011+01100011+01101111+00100000+%F0%9F%87%B2%F0%9F%87%A6" alt="Binary About Me" />
+</a>
 
 <br clear="both">
 
 ---
 
-## 🛠️ Technical Stack
+## 🛠️ TECHNICAL STACK
 
 ### Programming Languages
 <div align="left">
@@ -59,78 +59,43 @@ motto: Automate everything that can be automated
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" height="36" alt="Go" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="36" alt="Java" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="36" alt="PHP" />
-  <img width="12" />
   <img src="https://skillicons.dev/icons?i=rust" height="36" alt="Rust" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="36" alt="Bash" />
 </div>
 
-### Frontend Development
+### Frontend
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="36" alt="React" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="36" alt="Next.js" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="36" alt="Vue" />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="36" alt="Tailwind" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="36" alt="HTML5" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="36" alt="CSS3" />
 </div>
 
-### Backend & Databases
+### Backend & DevOps
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="36" alt="Node.js" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="36" alt="Express" />
-  <img width="12" />
   <img src="https://skillicons.dev/icons?i=laravel" height="36" alt="Laravel" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="36" alt="PostgreSQL" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="36" alt="MySQL" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="36" alt="MongoDB" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" height="36" alt="Redis" />
-</div>
-
-### DevOps & Cloud
-<div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="36" alt="Docker" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="36" alt="Kubernetes" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" height="36" alt="AWS" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="36" alt="GCP" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" height="36" alt="Terraform" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="36" alt="Git" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="36" alt="Linux" />
 </div>
 
 ---
 
-## 📊 GitHub Statistics
+## 📊 GITHUB STATISTICS
 
 <div align="center">
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Lagmouchyoussef&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
   <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Lagmouchyoussef&theme=tokyonight&hide_border=true" />
-  <br><br>
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lagmouchyoussef&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
 </div>
 
 ---
 
-## 🏆 GitHub Trophies
+## 🏆 TROPHIES
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Lagmouchyoussef&theme=tokyonight&no-frame=true&row=1&column=7" />
@@ -141,12 +106,12 @@ motto: Automate everything that can be automated
 ## 🐍 ANIMATED SNAKE GAME
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="Animated Snake Game" />
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="Snake Game" />
 </div>
 
 ---
 
-## 🎯 Activity Graph
+## 🎯 ACTIVITY GRAPH
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Lagmouchyoussef&theme=tokyo-night&hide_border=true" />
@@ -156,13 +121,12 @@ motto: Automate everything that can be automated
 
 <div align="center">
 
-```
-01011001 01001111 01010101 01010011 01010011 01000101 01000110
-00100000 01001100 01000001 01000111 01001101 01001111 01010101
-01000011 01001000
-```
+<!-- ANIMATED BINARY FOOTER -->
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&pause=500&color=00FF00&center=true&vCenter=true&random=false&width=600&lines=01010100+01101000+01100001+01101110+01101011+00100000;01111001+01101111+01110101+00100001+⭐" alt="Binary Footer" />
+</a>
 
-### ⭐ Star my repositories if you find them useful!
+<br>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0088ff&height=100&section=footer" />
 
