@@ -1,21 +1,45 @@
 <!-- 🔹 LAGMOUCH YOUSSEF - GITHUB PROFILE README 🔹 -->
-<!-- ✨ HIGH-END PROFESSIONAL DESIGN ✨ -->
+<!-- ✨ ULTRA PROFESSIONAL PREMIUM DESIGN ✨ -->
+<!-- ⚡ ANIMATIONS + INTERACTIONS + ADVANCED STATISTICS ⚡ -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=280&section=header&text=Lagmouch%20Youssef&fontSize=55&fontAlignY=40&desc=Full%20Stack%20Developer%20%7C%20Software%20Engineer&descSize=20&descAlignY=65&fontColor=ffffff&animation=fadeIn"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:0369a1,100:06b6d4&height=320&section=header&text=Lagmouch%20Youssef&fontSize=65&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Software%20Architect&descSize=22&descAlignY=60&fontColor=ffffff&animation=twinkling&stroke=0ea5e9&strokeWidth=1"/>
 </p>
 
-<!-- 🔹 HERO SECTION 🔹 -->
+<!-- 🔹 ANIMATED GLOWING BADGES 🔹 -->
 <div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=00D3FF&center=true&vCenter=true&random=false&width=520&lines=Hello%2C+I'm+Youssef+%F0%9F%91%8B;Passionate+Full+Stack+Developer;Building+Scalable+Digital+Solutions;Turning+Ideas+Into+Reality+%E2%9A%A1" alt="Typing SVG" />
-  </a>
+  <img src="https://img.shields.io/badge/STATUS-ACTIF-%2300FF00?style=for-the-badge&logo=statuspal&logoColor=white" />
+  <img src="https://img.shields.io/badge/EXPERIENCE-4%2B%20ANS-%230ea5e9?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/PROJETS-50%2B-%238b5cf6?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/COMMITS-2500%2B-%23f59e0b?style=for-the-badge" />
 </div>
 
 <br/>
 
+<!-- 🔹 HERO ANIMATION GRID 🔹 -->
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" width="25%">
+        <img src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2dd489bd32e3.gif" width="100"/>
+      </td>
+      <td align="center" width="50%">
+        <a href="https://git.io/typing-svg">
+          <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=800&color=00D3FF&center=true&vCenter=true&random=false&width=580&duration=4000&lines=Bienvenue+sur+mon+GitHub+%F0%9F%91%8B;Ing%C3%A9nieur+Logiciel+Full+Stack;Architecte+Solutions+Cloud;Passionn%C3%A9+par+l%27innovation+%E2%9A%A1;Transformer+vos+id%C3%A9es+en+r%C3%A9alit%C3%A9" alt="Typing SVG" />
+        </a>
+      </td>
+      <td align="center" width="25%">
+        <img src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2dd489bd32e3.gif" width="100"/>
+      </td>
+    </tr>
+  </table>
+</div>
+
+<br/>
+
+<!-- 🔹 3D ANIMATED HERO BANNER 🔹 -->
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500" alt="Coding Animation"/>
+  <img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="650" style="border-radius:15px; box-shadow: 0 0 40px rgba(0, 211, 255, 0.3);" alt="Premium Coding Animation"/>
 </p>
 
 <br/>
