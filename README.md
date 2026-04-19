@@ -44,9 +44,9 @@ Hey What's up? 👋
 
 My name is Youssef and I'm a **Full Stack Developer & DevOps Engineer** from Morocco.
 
+💻 I am a developer and I create all kinds of programs  
 ✨ Automating everything that can be automated ⚙️  
-📚 Currently focusing on Cloud-native infrastructures and AWS ☁️  
-🎯 Goals: Build high-performance scalable systems 🚀  
+🎯 Building web applications, APIs & scalable systems  
 🧩 I love turning complex problems into elegant solutions
 
 <br clear="both">
