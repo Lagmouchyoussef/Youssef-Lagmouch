@@ -8,19 +8,19 @@
 
 ---
 
-<a href="https://github.com/Lagmouchyoussef">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="GitHub" />
-</a>
-<img width="20" />
-<a href="https://www.linkedin.com/in/youssef-lagmouch-51557a2b3/?locale=fr">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="40" alt="LinkedIn" />
-</a>
-<img width="20" />
-<a href="mailto:yousseflagmouch@gmail.com">
-  <img src="https://skillicons.dev/icons?i=gmail" height="40" alt="Email" />
-</a>
+<!-- SOCIAL ICONS BOOTSTRAP STYLE -->
+<p align="center">
+  <a href="https://github.com/Lagmouchyoussef">
+    <img src="https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="https://www.linkedin.com/in/youssef-lagmouch-51557a2b3/?locale=fr">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:yousseflagmouch@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335.svg?style=for-the-badge&logo=Gmail&logoColor=white" alt="Gmail" />
+  </a>
+</p>
 
-<br>
 <br>
 
 ![](https://komarev.com/ghpvc/?username=Lagmouchyoussef&color=0088ff&style=for-the-badge)
@@ -36,7 +36,7 @@
 
 ```yaml
 name: Youssef Lagmouch
-location: Morocco 🇲🇦
+location: Casablanca, Morocco 🇲🇦
 role: Full Stack Developer & DevOps Engineer
 specialty: High performance scalable systems
 motto: Automate everything that can be automated
@@ -64,8 +64,6 @@ motto: Automate everything that can be automated
   <img width="10" />
   <img src="https://skillicons.dev/icons?i=rust" height="38" title="Rust" />
   <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="38" title="C" />
-  <img width="10" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="38" title="Bash" />
 </div>
 
@@ -79,11 +77,7 @@ motto: Automate everything that can be automated
   <img width="10" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="38" title="Vue.js" />
   <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="38" title="Angular" />
-  <img width="10" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="38" title="TailwindCSS" />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="38" title="SASS" />
   <img width="10" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="38" title="HTML5" />
   <img width="10" />
@@ -96,11 +90,7 @@ motto: Automate everything that can be automated
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="38" title="Node.js" />
   <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="38" title="Express" />
-  <img width="10" />
   <img src="https://skillicons.dev/icons?i=laravel" height="38" title="Laravel" />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="38" title="Django" />
   <img width="10" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="38" title="PostgreSQL" />
   <img width="10" />
@@ -121,13 +111,7 @@ motto: Automate everything that can be automated
   <img width="10" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" height="38" title="AWS" />
   <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="38" title="Google Cloud" />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="38" title="Azure" />
-  <img width="10" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" height="38" title="Terraform" />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-original.svg" height="38" title="Ansible" />
   <img width="10" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="38" title="Git" />
   <img width="10" />
@@ -143,7 +127,6 @@ motto: Automate everything that can be automated
   <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Lagmouchyoussef&theme=tokyonight&hide_border=true" />
   <br><br>
   <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lagmouchyoussef&layout=compact&theme=tokyonight&hide_border=true&langs_count=10" />
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Lagmouchyoussef&theme=tokyonight&utcOffset=1" />
 </div>
 
 ---
@@ -151,7 +134,7 @@ motto: Automate everything that can be automated
 ## 🏆 GITHUB TROPHIES
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Lagmouchyoussef&theme=tokyonight&no-frame=true&row=1&column=6&margin-w=15&margin-h=15" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Lagmouchyoussef&theme=tokyonight&no-frame=true&row=1&column=6&margin-w=15" />
 </div>
 
 ---
@@ -164,7 +147,7 @@ motto: Automate everything that can be automated
 
 ---
 
-## 🎯 ANIMATED ACTIVITY GRAPH
+## 🎯 ACTIVITY GRAPH
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Lagmouchyoussef&theme=tokyo-night&hide_border=true" />
@@ -172,31 +155,23 @@ motto: Automate everything that can be automated
 
 ---
 
-## 📈 ANIMATED DIAGRAMS
-
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Lagmouchyoussef&theme=tokyonight" width="90%" />
-</div>
-
----
-
 <div align="center">
 
 ---
 
-<a href="https://github.com/Lagmouchyoussef">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="GitHub" />
-</a>
-<img width="20" />
-<a href="https://www.linkedin.com/in/youssef-lagmouch-51557a2b3/?locale=fr">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="40" alt="LinkedIn" />
-</a>
-<img width="20" />
-<a href="mailto:yousseflagmouch@gmail.com">
-  <img src="https://skillicons.dev/icons?i=gmail" height="40" alt="Email" />
-</a>
+<!-- FOOTER SOCIAL ICONS -->
+<p align="center">
+  <a href="https://github.com/Lagmouchyoussef">
+    <img src="https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="https://www.linkedin.com/in/youssef-lagmouch-51557a2b3/?locale=fr">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:yousseflagmouch@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335.svg?style=for-the-badge&logo=Gmail&logoColor=white" alt="Gmail" />
+  </a>
+</p>
 
-<br>
 <br>
 
 ```
