@@ -149,7 +149,7 @@ motto: Automate everything that can be automated
 ## 🏆 GITHUB TROPHIES
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Lagmouchyoussef&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=12" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Lagmouchyoussef&theme=tokyonight&no-frame=true&row=1&column=6&margin-w=15&margin-h=15" />
 </div>
 
 ---
@@ -182,9 +182,22 @@ motto: Automate everything that can be automated
 
 ---
 
+<a href="https://github.com/Lagmouchyoussef">
+  <img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+<a href="https://www.linkedin.com/in/youssef-lagmouch-51557a2b3/?locale=fr">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="mailto:yousseflagmouch@gmail.com">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+<br>
+<br>
+
 ```
 ⚡ Building systems that scale | Automating everything
-📍 Marrakech, Morocco | Open for opportunities
+📍 Casablanca, Morocco | Open for opportunities
 ```
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0088ff&height=120&section=footer" />
